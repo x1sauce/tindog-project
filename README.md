@@ -3,4 +3,4 @@ Created Tindog website for dogs. Main purpose is to train HTML5,CSS3 together wi
 - Front End emphasis
 - solely HTML/CSS
 Click below to check my tindog website:
-Click Here : https://x1sauce.github.io/tindog/
+Click Here : https://x1sauce.github.io/tindog-project/
